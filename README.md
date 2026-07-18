@@ -4,12 +4,16 @@ A curated list of iPhone and iPad apps that **keep your data on your device** 鈥
 
 > "Privacy-first" here means the core function works on-device, without sending your content to a server. Always verify current behavior in each app's App Privacy label.
 
+> **Disclosure:** This list is maintained by Lumi Studio, developer of the Lumi Studio apps named below. Entries are factual and non-ranked; other developers' apps are included for context.
+
 ## Contents
 
 - [Photos & Vault](#photos--vault)
 - [Documents](#documents)
 - [Health & Lifestyle](#health--lifestyle)
 - [Money](#money)
+- [Travel](#travel)
+- [Learning](#learning)
 - [Messaging & Utilities](#messaging--utilities)
 - [Notes](#notes)
 - [Contributing](#contributing)
@@ -40,6 +44,14 @@ A curated list of iPhone and iPad apps that **keep your data on your device** 鈥
 - [G+Money](https://apps.apple.com/app/id6755782939) - Multi-currency expense tracker that works fully offline; no bank linking, no account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/gmoney.html)
 - [HoursTag](https://apps.apple.com/app/id6754218117) - Converts prices into hours of work locally; no bank linking, no account. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/hourstag.html)
 
+## Travel
+
+- [TripBee Lite](https://apps.apple.com/app/id6791299610) - Keeps one active journey, timeline, tickets, reminders, and maps together with no account, ads, or tracking. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/tripbeelite.html)
+
+## Learning
+
+- [Wordmate](https://apps.apple.com/app/id6789917808) - Pay-once vocabulary practice across 44 languages with no account, tracking, ads, or subscription. 路 [in-depth guide](https://alice51849.github.io/ios-app-guide/hubs/wordmate.html)
+
 ## Messaging & Utilities
 
 - [Signal](https://apps.apple.com/app/id874139669) - Private messenger, end-to-end encrypted.
@@ -49,7 +61,7 @@ A curated list of iPhone and iPad apps that **keep your data on your device** 鈥
 
 - On-device behavior can change between versions; always check each app's App Privacy label and current description.
 - "Pay-once" means a one-time purchase rather than a subscription, where noted.
-- In-depth guides link to an independent buying-guide site with feature breakdowns.
+- In-depth guides are publisher-authored first-party resources from Lumi Studio, the developer of the Lumi Studio apps listed here.
 
 ## Contributing
 
@@ -70,10 +82,10 @@ Part of a family of curated, pay-once / privacy-first iOS app lists:
 - [Awesome iOS Productivity](https://github.com/alice51849/awesome-ios-productivity)
 
 For full app guides, comparisons and buying advice, see the **[iOS App Guide](https://alice51849.github.io/ios-app-guide/)**.
+You can also filter the complete live portfolio in the **[publisher-verified 28-app finder](https://alice51849.github.io/ios-app-guide/tools/private-pay-once-iphone-app-finder.html)**.
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related rights to this work.
-
