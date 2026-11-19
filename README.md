@@ -42,6 +42,7 @@ A curated list of iPhone and iPad apps that **keep your data on your device** �
 
 - [G+Money](https://apps.apple.com/app/id6755782939) - Multi-currency expense tracker that works fully offline; no bank linking, no account. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/gmoney.html)
 - [HoursTag](https://apps.apple.com/app/id6754218117) - Converts prices into hours of work locally; no bank linking, no account. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/hourstag.html)
+- [BitTool Signer (iOS)](https://bittool.com/signer/) - Free offline QR transaction signer with on-device keys and transaction review, no account or cloud sync; a separate online wallet broadcasts transactions. (Submitted by BitTool Team.)
 
 ## Travel
 
